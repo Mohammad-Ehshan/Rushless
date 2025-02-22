@@ -1,15 +1,5 @@
-1.Setting up nextjs with shadcn
-2. installing button,input,form from shadcn
-3.npm install react-hook-form
-4.npm install zod zustand
-5.npm install @googlemaps/js-api-loader @react-google-maps/api 
-6.I am using gomaps.pro api instead of google map api
-7.I am changing googlemap to gomap using notepad++ so don't do npm i otherwise changes will be reset!!!
-8. now trying with react-leaflet
-9. npm i react-leaflet
-10. npm i mongodb mongoose (using m.usman account)
-11. npm i date-fns for calender
-12.npm i stripe  (using m.usman account)
-13.npm i @stripe/react-stripe-js @stripe/stripe-js
-14.npm i  (using resend for email sending using m.usman account)
-15. clerk for authentication (using m.usman account)
+-Real-Time Traffic Monitoring: IoT-enabled sensors and surveillance cameras collect live traffic and parking data.
+-Traffic Prediction: CNNs and LSTMs analyze traffic patterns and predict congestion.
+-Smart Parking System: YOLOv5-based computer vision detects available parking slots in real-time.
+-AI-Powered Traffic Lights: A reinforcement learning-based Traffic Light Controller (TLC) using DQN dynamically adjusts signal timings to optimize traffic flow.
+-User-Friendly Mobile App: Integrates parking availability updates and reservation features for a seamless user experience.
