@@ -2,7 +2,9 @@ Basic Frontend:https://v0-smart-traffic-signal-webpage.vercel.app
 
 Accident Detection: https://github.com/Diotoara/Accident-Detection
 
-Demo Video:https://drive.google.com/file/d/18ShmmA3_2ahoKDkQJG4v_ibcRveAsZAE/view?usp=sharing
+PPT:https://drive.google.com/file/d/18ShmmA3_2ahoKDkQJG4v_ibcRveAsZAE/view?usp=sharing
+
+Video Demo:https://drive.google.com/file/d/1K4qwthAsoI-VMZy1RwBq-8OZEntbrC6D/view?usp=sharing
 
 (DISCLAIMER: Some codes are not push till now due to working on different system and will be pushed in some time)
 
