@@ -1,3 +1,5 @@
+Basic Frontend:https://v0-smart-traffic-signal-webpage.vercel.app
+
 -Real-Time Traffic Monitoring: IoT-enabled sensors and surveillance cameras collect live traffic and parking data.  
 
 -Traffic Prediction: CNNs and LSTMs analyze traffic patterns and predict congestion.
