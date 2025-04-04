@@ -37,7 +37,9 @@ Traffic congestion, inefficient signals, delayed emergency responses, and parkin
 With **AI-powered automation and real-time data**, RushLess **optimizes urban mobility**, enhances road safety, and ensures **seamless emergency responses**—because **every second on the road matters!**
 
 ##TO Run follow these steps:
+
 1.npm i
+
 2.npm run dev
 
 ### 💡 Want to Collaborate?
