@@ -1,4 +1,5 @@
--Real-Time Traffic Monitoring: IoT-enabled sensors and surveillance cameras collect live traffic and parking data.                                                                                        
+-Real-Time Traffic Monitoring: IoT-enabled sensors and surveillance cameras collect live traffic and parking data.  
+
 -Traffic Prediction: CNNs and LSTMs analyze traffic patterns and predict congestion.
 
 -Smart Parking System: YOLOv5-based computer vision detects available parking slots in real-time.
