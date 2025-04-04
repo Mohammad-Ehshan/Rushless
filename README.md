@@ -2,4 +2,5 @@
 -Traffic Prediction: CNNs and LSTMs analyze traffic patterns and predict congestion.
 -Smart Parking System: YOLOv5-based computer vision detects available parking slots in real-time.
 -AI-Powered Traffic Lights: A reinforcement learning-based Traffic Light Controller (TLC) using DQN dynamically adjusts signal timings to optimize traffic flow.
--User-Friendly Mobile App: Integrates parking availability updates and reservation features for a seamless user experience.
+
+(DISCLAIMER: Some codes are not push till now due to working on different system and will be pushed in some time)
